@@ -19,7 +19,7 @@
   ],
   "include": [
     "src/**/*"
-  ],
+, "src/stolenLunch"  ],
   "typeRoots": [
     "node_modules/@types"
   ]
