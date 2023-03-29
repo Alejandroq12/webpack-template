@@ -2,7 +2,7 @@
   "name": "webpack-template",
   "version": "1.0.0",
   "description": "<a name=\"readme-top\">My Books</a>",
-  "main": "index.js",
+  "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
