@@ -141,6 +141,7 @@ To use this project locally on your computer, follow these steps:
 1. Clone the repository or download the project files.
 2. Navigate to the project directory where the files are located.
 3. Go to the terminal and run:
+
 -- This command will run the development mode:
 ```
 npm start
