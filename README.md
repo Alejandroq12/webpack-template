@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./assets/img/logo/logo-readme.png" alt="logo" width="600"  height="auto" />
+  <img src="./webpack.svg" alt="logo" width="600"  height="auto" />
   <br/>
 
   <h3><b>Webpack template</b></h3>
@@ -57,9 +57,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **A fully functional website**
-- **Modular JavaScript: The application is built using JavaScript modules, resulting in a well-organized, maintainable, and scalable codebase.**
-- **Semantic HTML: By utilizing semantic HTML elements, the website's structure is meaningful and accessible, improving both search engine optimization and the user experience for individuals using assistive technologies.**
+- **This is webpack template**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://alejandroq12.github.io/my-books-ES6/)
+Live demo is no available because this one is just a template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +95,7 @@ Clone this repository to your desired folder:
 
 1. Clone it using your terminal:
 ```
-git clone https://github.com/Alejandroq12/my-books-ES6.git
+git clone https://github.com/Alejandroq12/webpack-template.git
 ```
 
 2. If the previous method does not work you may also download the repo as a .zip file and once you decompress the .zip file you are ready to use it.
@@ -119,9 +117,8 @@ cd ..
 
 Install this project with:
 
-1. To view this project, no additional installation is required.
 
-2. However, if you want to test the linter configured for detecting errors or use Luxon library, complete the following steps:
+1. Complete the following steps:
 
 ```
 npm init -y
@@ -142,37 +139,22 @@ To use this project locally on your computer, follow these steps:
 
 
 1. Clone the repository or download the project files.
-2. Navigate to the project directory where the index.html file is located.
-3. Open the index.html file with a web browser.
-- Optional: You can also use the Live Server extension for Visual Studio Code to view the website with live reloading.
--- Install the Live Server extension in Visual Studio Code.
--- Open the project folder in Visual Studio Code.
--- Right-click on the index.html file and select "Open with Live Server".
+2. Navigate to the project directory where the files are located.
+3. Go to the terminal and run:
+-- This command will run the development mode:
+```
+npm start
+```
+-- This command will run the production mode:
+```
+npm run build
+```
 
 The website should now be displayed in your browser, and you can interact with the application as intended.
 
 ### Run tests
 
-1. Make sure all the linters and their configurations are installed and set up correctly in your project. If you haven't installed them yet, run `npm install` in your project directory to install the packages listed in your `package.json` file.
-
-2. Run each linter with the following commands:
-
-- For ESLint:
-```
-npx eslint .
-
-```
-- For Stylelint:
-```
-npx stylelint "**/*.css"
-
-```
-- For hint:
-```
-npx hint .
-
-```
-3. Review the output of each linter and fix any issues reported.
+1. I did not include linters because this ons is just a template.
 
 ### Deployment
 
@@ -208,8 +190,7 @@ You can deploy this project using GitHub pages:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **I will add media queries for larger screens**
-- [ ] **I will use JavaScript to add more interactivity**
+- [ ] **You can addapt this template to different projects**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,13 +226,10 @@ I would like to thank Wes Bos because I learned how to implement flexbox with hi
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **Are you going to use React in the future?**
+- **Can I use this template?**
 
-  - Yes! I will transform this website into a React App.
+  - Yes! you can use it, copy it and adjust it to your needs.
 
-- **Did you create this website from scratch?**
-
-  - Yes! From zero, and I will improve it a lot.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
