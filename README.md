@@ -1,11 +1,11 @@
-<a name="readme-top">My Books</a>
+<a name="readme-top">Webpack template</a>
 
 
 <div align="center">
   <img src="./assets/img/logo/logo-readme.png" alt="logo" width="600"  height="auto" />
   <br/>
 
-  <h3><b>My Books</b></h3>
+  <h3><b>Webpack template</b></h3>
 
 </div>
 
@@ -35,9 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Books <a name="about-project"></a>
+# 📖 Webpack template <a name="about-project"></a>
 
-"My Books" is an intuitive web application that showcases a dynamic list of books, offering the ability to add and remove books seamlessly. Throughout the development process, I have honed my skills in managing data with JavaScript, resulting in a highly interactive user experience. By adhering to a medium-fidelity wireframe, the application's user interface has been meticulously crafted to meet modern design standards. This project not only showcases my adeptness in web development but also demonstrates my ability to create user-friendly applications."
+"This a webpack template that I will use for future projects"
 
 ## 🛠 Built With <a name="built-with"></a>
 
