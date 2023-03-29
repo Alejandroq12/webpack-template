@@ -5,14 +5,18 @@ module.exports = {
   entry: {
     index: "./src/index.js",
   },
+  devServer: {
+    static: './dist',
+  },
   plugins: [
     new HtmlWebpackPlugin({
       template: "./src/index.html",
     }),
   ],
   output: {
-    filename: "main.js",
+    filename: "[name].bundle.js",
     path: path.resolve(__dirname, "dist"),
+    clean: true,
   },
   module: {
     rules: [
@@ -22,4 +26,7 @@ module.exports = {
       },
     ],
   },
+  optimization: {
+    runtimeChunk: 'single',
+  }
 };
